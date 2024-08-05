@@ -2,10 +2,10 @@
 
 .texto{
    
-    font-size: 40px;
+    font-size: 60px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(146, 101, 189);
+    color: rgb(0, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .principal{
@@ -24,19 +24,15 @@ color: brown;
 text-align: center;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
+} 
+
+.img{
+
+height: 500px;
+width: 500px;
+background-image: url("diagrama-de-configuracion-electronica.webp");
+
 }
 
-.img1{
-    height: 193px;
-    width: 300px;
-    background-image: url("piedra.jpeg");
-    background-repeat: no-repeat;
-    float: right;
-}
-.img2{
-    height: 500px;
-    width: 500px;
-    background-image: url("medellin.jpeg");
-    background-repeat: no-repeat;
-    float: left;
-}
+
+
