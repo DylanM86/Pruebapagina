@@ -1,0 +1,304 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 40px;
+    padding-top: 140px;
+    text-align: justify;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondotablas.jpg");
+   
+
+}
+.titulo{
+font-size: 60px;
+color: brown;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.img1{
+    height: 193px;
+    width: 300px;
+    background-image: url("piedra.jpeg");
+    background-repeat: no-repeat;
+    float: right;
+}
+.img2{
+    height: 500px;
+    width: 500px;
+    background-image: url("medellin.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+
+
+
+.img3{
+    height: 500px;
+    width: 10000px;
+    background-image: url("configuracionelectrones");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+
+
+.img4{
+    height: 600px;
+    width: 10000px;
+    background-image: url("cm");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+
+
+
+.img5{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("anorexia");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+
+.img6{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("aguarica");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img7{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("frutasyvegetales.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+.img8{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("zzzz");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img9{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("cepillo.png");
+    background-repeat: no-repeat;
+    
+}
+
+.img10{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("c.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img11{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("tro.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img12{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("lavar.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img13{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("bañito.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+.img14{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("imgejer.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.img15{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("doc.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+ .img16{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("ejercicio.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.img17{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("saludable.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.img18{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("fumarno.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.img19{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("coca.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img20{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("dulces.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img21{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("ps4.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.img22{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("comidar.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.img23{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("alcohol.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.img24{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("zzno.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.img25{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("nob.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.img26{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("drg.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.img27{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("alimento.jpg");
+    background-repeat: no-repeat;
+    
+
+}
+
+
+
+.img28{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("salmala.jpg");
+    background-repeat: no-repeat;
+   
+
+}
+
+
+.img29{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("azucarmala.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img30{
+    height: 800px;
+    width: 1000opx;
+    background-image: url("electrica.jpg");
+    background-repeat: no-repeat;
+    
+}
