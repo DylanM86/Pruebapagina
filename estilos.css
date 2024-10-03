@@ -312,6 +312,12 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 
-
+.img32{
+    height: 800px;
+    width: 800px;
+    background-image: url(zapato.png);
+    background-repeat: no-repeat;
+    
+}
 
 
