@@ -315,3 +315,58 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
 
+.img32{
+    height: 700px;
+    width: 500opx;
+    background-image: url("aguardiente.png");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img33{
+    height: 700px;
+    width: 500opx;
+    background-image: url("suma\ por\ diferencia.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+.img34{
+    height: 700px;
+    width: 500opx;
+    background-image: url("sancocho\ de\ gallina.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.img35{
+    height: 700px;
+    width: 500opx;
+    background-image: url("ey\ ey.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.img36{
+    height: 700px;
+    width: 500opx;
+    background-image: url("me\ va\ a\ dar\ un\ calambre\ cerebral.png");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.img37{
+    height: 700px;
+    width: 500opx;
+    background-image: url("saquenme\ de\ aqui.jpg");
+    background-repeat: no-repeat;
+    
+}
