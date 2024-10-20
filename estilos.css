@@ -577,37 +577,26 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
 
-
 .img57{
+    height: 700px;
+    width: 1000opx;
+    background-image: url("IMAGEN\ BIOLOGIA\ 134.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+.img58{
     height: 1000px;
     width: 1000opx;
-    background-image: url("cartelera\ quimica.jpg");
+    background-image: url("carteleraquimica2.jpg");
     background-repeat: no-repeat;
     
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.img56{
-    height: 700px;
-    width: 500opx;
-    background-image: url("el\ de\ las\ arepas.jfif");
-    background-repeat: no-repeat;
-    
-}
 
 
 
